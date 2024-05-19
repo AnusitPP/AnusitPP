@@ -6,7 +6,7 @@ I'm a Student at Songkhla Rajabhat University
 
 * 🌍  I'm based in Songkhla Rajabhat University
 * 🖥️  See my portfolio at [My Webside](http://google.com)
-* ✉️  You can contact me at [654234040@parichat.skru.ac.th](mailto:654234040@parichat.skru.ac.th )
+* ✉️  You can contact me at [anusit.panpimsen@gmail.com](mailto:anusit.panpimsen@gmail.com )
 
 ### Skills
 
